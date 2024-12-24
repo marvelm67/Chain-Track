@@ -123,8 +123,8 @@ Before you begin, ensure you have installed:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/nasamarca/chain-track-dapps.git
-cd chain-track-dapps
+git clone https://github.com/marvelm67/Chain-Track
+cd Chain-Track
 ```
 
 2. **Install Foundry dependencies**
@@ -247,7 +247,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email nadiaregards@gmail.com
+For support, email marvelmichael67@gmail.com
 
 ## 🙏 Acknowledgments
 
