@@ -5,7 +5,7 @@
 
 **Tagline: Trace. Verify. Trust.**
 
-*Live Website* : [ChainTrack](chain-track-dapps.vercel.app)
+*Live Website* : [ChainTrack](https://chain-track-dapps.vercel.app)
 
 ## 📸 Application Screenshots
 
